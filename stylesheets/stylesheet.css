@@ -60,14 +60,14 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
-  font-weight: 500; /* 700 */
+  font-weight: 700; /* 700 */
   color:#222222;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 24px; /*  */
   font-weight: 700;
 }
 
