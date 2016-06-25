@@ -130,10 +130,6 @@ em {
   font-style: italic;
 }
 
-me {
-  font-style: bold:
-}
-
 strong {
   font-weight: bold;
 }
@@ -311,6 +307,10 @@ Full-Width Styles
   font-size: 36px;
   font-weight: 400;
   text-shadow: #111 0px 0px 10px;
+}
+
+#me {
+  font-style: bold:
 }
 
 #project_tagline {
