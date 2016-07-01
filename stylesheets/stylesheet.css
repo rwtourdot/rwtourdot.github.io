@@ -273,7 +273,7 @@ Full-Width Styles
 }
 
 .container {
-    width:400px;
+    width:640px;
     display:inline-block;
     height:80px;
     margin-right:10px;
@@ -284,7 +284,7 @@ Full-Width Styles
 .left {
     display:table-cell;
     vertical-align:middle;
-    width:120px;
+    width:320px;
     margin:0;
     padding:0;
     height:80px;
@@ -295,7 +295,7 @@ Full-Width Styles
 .right {
     display:table-cell;
     vertical-align:middle;
-    width:280px;
+    width:320px;
     padding:0 10px;
 }
 
